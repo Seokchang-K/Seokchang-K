@@ -22,7 +22,7 @@
 한림대학교 철학과/경제학과 복수 전공.<br/>
 <br/>
 email : sckang1206@naver.com<br/>
-velog : ["Go to velog"](https://velog.io/@sckang1206)<br/>
+velog : [Go to Velog](https://velog.io/@sckang1206)<br/>
 
 ---
 
