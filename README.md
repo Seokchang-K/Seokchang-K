@@ -15,6 +15,18 @@
 
 언젠가는 빅데이터 분석가로서 일할 수 있기를!!! 화이팅!!!!!!!:laughing:
 
+강석창
+아마추어 개발자
+한림대학교 철학과/경제학과 복수 전공.
+
+email : sckang1206@naver.com
+velog : velog.io/@sckang1206
+
+로스트아크
+server : 카제로스
+Main_character : Bard    / 누운카아
+Sub_character  : Demonic / 눈카쿠마
+
 ### Hi again My name is Seok_Chang
 
 * Graduated Hanllym univ majored Philosophy and Economics
